@@ -36,4 +36,9 @@ When a value is certain, it is a simple smalltalk objet (equivalent to a bba on 
 
 Whereas we could consider only given domain with predefined values, it's not that "hard" to considered the open world hypothesis from scratch. This will lead to a more complex evolutionary model (but that really doable) and this could, if done well), provide a very good interface to the building of iterable, dynamic information processing tools.
 
+#DOING
+So considering one of the first scenario is:
+- showing feasability of information incremental value domain extraction
+- show in a given modeled one how history works
+- show in a given modeled one how an uncertain value works
 
